@@ -30,5 +30,5 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 **Contributing**
 Contributions are welcome! If you have any suggestions or want to report an issue, please open an issue or submit a pull request.
 
-Contact
+**Contact**
 If you have any questions or need assistance, feel free to contact adityaprajapati1702@gmail.com .
