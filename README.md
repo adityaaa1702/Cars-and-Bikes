@@ -7,7 +7,7 @@ Welcome to the Vehicle Selection Program! This program allows you to choose betw
 
 To use the Vehicle Selection Program, follow the steps below:
 1. Clone the repository:
-2.  git clone(https://github.com/adityaaa1702/Cars-and-Bikes)https://github.com/adityaaa1702/Cars-and-Bikes
+2.  git clone(https://github.com/adityaaa1702/Cars-and-Bikes)
 3.compile the code and Run the programme main.exe
 
 ### Prerequisites
