@@ -10,7 +10,7 @@ To use the Vehicle Selection Program, follow the steps below:
 2.  git clone(https://github.com/adityaaa1702/Cars-and-Bikes)
 3.compile the code and Run the programme main.exe
 
-### Prerequisites
+##Prerequisites
 
 - C++ compiler installed on your machine
 
@@ -23,12 +23,13 @@ Select a model for the chosen brand.
 
 Repeat the process to choose another vehicle or enter '0' to exit the program.
 
-**License**
+##License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-**Contributing**
+##Contributing
+
 Contributions are welcome! If you have any suggestions or want to report an issue, please open an issue or submit a pull request.
 
-**Contact**
+##Contact
 If you have any questions or need assistance, feel free to contact adityaprajapati1702@gmail.com .
